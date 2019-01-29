@@ -8,7 +8,7 @@ You will need
 
 ### software part
 
-You need to compile and install [this driver](https://github.com/lorf/csr-spi-ftdi#csr-chips-supported-by-programmer), put it into wine (and generally follow all instructions on it's readme).
+You need to compile and install [this driver](https://github.com/lorf/csr-spi-ftdi#installing-on-ubuntudebian-linux), put it into wine.
 Then install 2.6.6 from [this comment](https://github.com/lorf/csr-spi-ftdi/issues/30#issuecomment-398190388).
 And for more fun you can install [this](https://drive.google.com/file/d/13yuOggcoSuvK2E_j7zRwjGfpYtcgJvO9/view?usp=sharing) as well (it was really hard to find that last one). Last one may require windows though.
 
