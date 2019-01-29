@@ -14,7 +14,7 @@ And for more fun you can install [this](https://drive.google.com/file/d/13yuOggc
 
 ### hardware part
 
-switch ftd323 to 3.3V and connect things to ftd232r like this:
+switch ftd232r to 3.3V and connect things to ftd232r like this:
 
 ![pins and stuff](kz-earphones-pins.png)
 
