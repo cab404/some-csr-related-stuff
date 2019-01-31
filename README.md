@@ -14,7 +14,9 @@ And for more fun you can install [this](https://drive.google.com/file/d/13yuOggc
 
 ### hardware part
 
-switch ftd232r to 3.3V and connect things to ftd232r like this:
+Pry open piece with buttons, by pushing usb port upwards. It will take some force, try not to bend usb port.
+
+Switch ftd232r to 3.3V and connect things to it like this:
 
 ![pins and stuff](kz-earphones-pins.png)
 
